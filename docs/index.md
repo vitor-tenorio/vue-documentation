@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Relatório Técnico - VueJS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Este relatório técnico tem como objetivo explorar os principais conceitos e ferramentas relacionadas ao VueJS, um dos frameworks JavaScript mais populares para a construção de interfaces de usuário. Vamos abordar desde os fundamentos até as ferramentas avançadas que tornam o VueJS uma escolha robusta para desenvolvedores.
 
-## Commands
+## Índice
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Introdução](introducao.md)
+- [Componentes](componentes/visao-geral.md)
+- [Diretivas](diretivas.md)
+- [Ferramentas e Bibliotecas Adicionais](ferramentas.md)
+- [Conclusão](conclusao.md)
