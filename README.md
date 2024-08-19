@@ -1,6 +1,6 @@
 # Trabalho: Documentação Tecnologia - Vue
 
-Desenvolvimento da documentação tecnologica da ferramenta Vue.
+Desenvolvimento da documentação tecnológica da ferramenta Vue.
 
 Participantes:
 
