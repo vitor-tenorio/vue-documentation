@@ -4,7 +4,7 @@ Desenvolvimento da documentação da tecnologia Vue.
 
 Participantes:
 
-* Jonatas
+* Jonathas Sousa
   
 * Luis Ferreira
 
