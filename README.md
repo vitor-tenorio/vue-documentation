@@ -1,6 +1,7 @@
 # Relatório Técnico sobre Vue.js com MkDocs
 
 Este repositório contém um relatório técnico sobre Vue.js, criado utilizando a biblioteca MkDocs do Python. O objetivo deste projeto é documentar os aspectos mais importantes do Vue.js e publicá-los em formato de site.
+Link para acesso: https://vitor-tenorio.github.io/vue-documentation/
 
 ## Estrutura do Repositório
 
